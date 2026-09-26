@@ -1,0 +1,26 @@
+{
+  "item.stormcaller_orb.activate": {
+    "subtitle": "sound.stormcaller.item.stormcaller_orb.activate",
+    "sounds": [
+      "stormcaller:item/stormcaller_orb_activate"
+    ]
+  },
+  "item.stormcaller_orb.backfire": {
+    "subtitle": "sound.stormcaller.item.stormcaller_orb.backfire",
+    "sounds": [
+      "stormcaller:item/stormcaller_orb_backfire"
+    ]
+  },
+  "block.weather_altar.charge": {
+    "subtitle": "sound.stormcaller.block.weather_altar.charge",
+    "sounds": [
+      "stormcaller:block/weather_altar_charge"
+    ]
+  },
+  "block.weather_altar.activate": {
+    "subtitle": "sound.stormcaller.block.weather_altar.activate",
+    "sounds": [
+      "stormcaller:block/weather_altar_activate"
+    ]
+  }
+}

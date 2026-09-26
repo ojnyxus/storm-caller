@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stormcaller:block/weather_altar_top_charged",
+    "side": "stormcaller:block/weather_altar_side"
+  }
+}

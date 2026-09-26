@@ -1,0 +1,10 @@
+{
+  "item.stormcaller.lightning_charge": "Ładunek Piorunowy",
+  "item.stormcaller.stormcaller_orb": "Orb Zaklinacza Burz",
+  "item.stormcaller.storm_wisp_spawn_egg": "Jajko Przywołujące: Mgławik Burzy",
+  "block.stormcaller.weather_altar": "Ołtarz Pogody",
+  "block.stormcaller.weather_altar.needs_charge": "Ołtarz potrzebuje Ładunku Piorunowego",
+  "entity.stormcaller.storm_wisp": "Mgławik Burzy",
+
+  "itemGroup.stormcaller": "Stormcaller"
+}

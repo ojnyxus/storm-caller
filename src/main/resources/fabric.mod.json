@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "stormcaller",
+  "version": "${version}",
+  "name": "Stormcaller \u2013 Tame the Tempest",
+  "description": "Harness lightning strikes, brew storms with the Stormcaller Orb, build a Weather Altar to bend the sky safely, and encounter the wild Storm Wisp.",
+  "authors": [
+    "You"
+  ],
+  "contact": {
+    "homepage": "https://example.com"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/stormcaller/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.stormcaller.StormcallerMod"
+    ],
+    "client": [
+      "com.stormcaller.client.StormcallerModClient"
+    ],
+    "modmenu": [
+      "com.stormcaller.client.integration.ModMenuIntegration"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "geckolib": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

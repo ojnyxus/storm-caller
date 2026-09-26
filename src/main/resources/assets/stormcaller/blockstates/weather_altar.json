@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model": "stormcaller:block/weather_altar" },
+    "charged=true": { "model": "stormcaller:block/weather_altar_charged" }
+  }
+}

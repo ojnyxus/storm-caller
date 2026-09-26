@@ -1,0 +1,15 @@
+{
+  "item.stormcaller.lightning_charge": "Lightning Charge",
+  "item.stormcaller.stormcaller_orb": "Stormcaller Orb",
+  "item.stormcaller.storm_wisp_spawn_egg": "Storm Wisp Spawn Egg",
+  "block.stormcaller.weather_altar": "Weather Altar",
+  "block.stormcaller.weather_altar.needs_charge": "The altar needs a Lightning Charge",
+  "entity.stormcaller.storm_wisp": "Storm Wisp",
+
+  "itemGroup.stormcaller": "Stormcaller",
+
+  "sound.stormcaller.item.stormcaller_orb.activate": "Stormcaller Orb activates",
+  "sound.stormcaller.item.stormcaller_orb.backfire": "Stormcaller Orb backfires",
+  "sound.stormcaller.block.weather_altar.charge": "Weather Altar charges",
+  "sound.stormcaller.block.weather_altar.activate": "Weather Altar activates"
+}
